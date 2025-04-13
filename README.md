@@ -1,4 +1,4 @@
-# Fine-Tuning FLAN-T5 with Full Fine-Tuning and PEFT on SQuAD Dataset
+# Fine-Tuning FLAN-T5 with Instruction Fine-Tuning and PEFT on SQuAD Dataset
 
 This project demonstrates the fine-tuning of the FLAN-T5 model on the SQuAD (Stanford Question Answering Dataset) using two different approaches: 
 1. **Full fine-tuning**
