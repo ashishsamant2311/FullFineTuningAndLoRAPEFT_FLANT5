@@ -43,7 +43,6 @@ This project aims to:
 
 [SQuAD (Stanford Question Answering Dataset)](https://rajpurkar.github.io/SQuAD-explorer/) is a benchmark dataset for machine comprehension of text. It consists of:
 - **SQuAD 1.1:** Over 100,000 question-answer pairs from Wikipedia articles.
-- **SQuAD 2.0:** Adds unanswerable questions to SQuAD 1.1 to make the task more challenging.
 
 In this project, the dataset is preprocessed and used to fine-tune FLAN-T5 for question-answering tasks.
 
